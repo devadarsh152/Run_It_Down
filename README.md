@@ -4,7 +4,6 @@ A 2D action platformer prototype developed in **Godot 4** using **GDScript**. Fe
 
 
 ## 🕹️ Key Features & Implementation Details
-* **Finite State Machine:** Engineered a finite state machine (FSM) to manage player locomotion, air control, jump physics, and animations cleanly.
 * **Combat & Damage Logic:** Programmed hitboxes, hurtboxes, and enemy defeat mechanics using Godot's **Area2D** signals and collision masks.
 * **Level Architecture & Progression:** Created 2 distinct playable levels using multi-layered **TileMaps** for collisions, hazard triggers, and level transitions.
 * **Decoupled Signal Architecture:** Utilized custom Signals to handle player health updates, level resets, and UI triggers.
