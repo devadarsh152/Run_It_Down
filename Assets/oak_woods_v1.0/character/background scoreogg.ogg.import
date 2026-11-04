@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://vs0hr3ep7lhk"
+path="res://.godot/imported/background scoreogg.ogg-f97b8daff9d7072be74034272d1ec7d9.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/oak_woods_v1.0/character/background scoreogg.ogg"
+dest_files=["res://.godot/imported/background scoreogg.ogg-f97b8daff9d7072be74034272d1ec7d9.oggvorbisstr"]
+
+[params]
+
+loop=true
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4

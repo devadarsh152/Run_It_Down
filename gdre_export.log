@@ -1,0 +1,37 @@
+GDRE Tools v2.5.0-beta.5
+Windows 10.0.26200, NVIDIA GeForce RTX 4050 Laptop GPU, vulkan
+WARNING: Could not find embedded pck in EXE, found pck file, loading from: C:/Users/devad/OneDrive/Documents/Game/Skeleton Game/Run-it-down/run_it_down.pck
+   at: GDRESettings::sort_and_validate_pck_files (modules\gdsdecomp\utility\gdre_settings.cpp:613)
+Opening file: C:/Users/devad/OneDrive/Documents/Game/Skeleton Game/Run-it-down/run_it_down.pck
+Loaded 88 imported files
+Detected Engine Version: 4.6.2
+Detected Bytecode Revision: 4.5.0-stable (ebc36a7)
+Verified 180 files, no errors detected!
+WARNING: GDREWindow: Setting process to true
+   at: GDREWindow::call_on_next_process (modules\gdsdecomp\gui\gdre_window.cpp:79)
+Extracted 180 files, no errors detected!
+Saved project config.
+
+
+********************************EXPORT REPORT********************************
+
+Totals:                                 
+Decompiled scripts:                     13
+Failed scripts:                         0
+Imported resources for export session:  88
+Successfully converted:                 88
+Lossy:                                  1
+Rewrote metadata:                       57
+Non-importable conversions:             0
+Not converted:                          0
+Failed conversions:                     0
+-------------
+
+
+
+------------------------------------------------------------------------------------
+
+Use Godot editor version 4.6.2 to edit the project.
+
+*******************************************************************************
+

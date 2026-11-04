@@ -1,0 +1,23 @@
+[gd_scene format=3 uid="uid://bm1c0s4s6qc8i"]
+
+[ext_resource type="Texture2D" uid="uid://det4l45hdlp0o" path="res://Assets/Mossy Tileset/Mossy - FloatingPlatforms.png" id="1"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_ketu5"]
+size = Vector2(69.5, 10)
+
+[node name="mossplatform" type="AnimatableBody2D" unique_id=88415093]
+z_index = 6
+position = Vector2(91, 57)
+collision_layer = 2
+collision_mask = 0
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=518491551]
+position = Vector2(-91, -58)
+scale = Vector2(0.08449489, 0.06137736)
+texture = ExtResource("1")
+region_enabled = true
+region_rect = Rect2(472, 1, 1094, 488)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1650255152]
+position = Vector2(-91.75, -59)
+shape = SubResource("RectangleShape2D_ketu5")
