@@ -35,7 +35,4 @@ A 2D action platformer prototype developed in **Godot 4** using **GDScript**. Fe
 
 
 
-## 🚀 How to Run Locally
-1. Download or clone this repository.
-2. Open **Godot 4.x**.
-3. Import the project using `project.godot` and press **F5** to run.
+
