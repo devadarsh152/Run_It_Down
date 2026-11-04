@@ -21,16 +21,16 @@ A 2D action platformer prototype developed in **Godot 4** using **GDScript**. Fe
 * **Code & Architecture:** Developed by **Devadarsh E** (with AI guidance for initial pathfinding logic).
 
 ## 🎮 Game Visuals
- **Starting Screen**
+ **Starting Screen:**
 <img width="1130" height="596" alt="image" src="https://github.com/user-attachments/assets/49cc0946-7715-4c1b-9999-5b4f7e902c22" />
- **Gameplay**
+ **Gameplay:**
  <img width="1135" height="636" alt="image" src="https://github.com/user-attachments/assets/559c977c-3a7f-46c3-948d-4c094d06ffa2" />
 
 
 
 ## 🚀 How to Run Locally
 1. Download or clone this repository.
-2. Open **Godot 4.x**.
+2. Open **Godot 4.5**.
 3. Import the project using `project.godot` and press **F5** to run.
 
 
